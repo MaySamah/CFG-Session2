@@ -1,0 +1,58 @@
+body
+    {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+
+header
+    {
+        background-image: url(background.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+        transform: rotate(90deg);
+        opacity: 0.6;
+        color: #333333;
+    }
+
+    
+h1
+    {
+        color: blueviolet;
+        text-align: center;
+        font-size: 26px;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+ul, .poetsen-one-regular 
+        {
+            font-family: "Poetsen One", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+.Morning
+        {
+            border: 10px solid darkgray;
+            padding: 10px;
+            margin: 10px;
+        }
+
+.Midday
+        {
+            border: 10px solid darkgray;
+            padding: 10px;
+            margin: 10px;
+        }
+
+.Evening
+        {
+            border: 10px solid darkgray;
+            padding: 10px;
+            margin: 10px;
+        }
+      
+      
